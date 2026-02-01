@@ -1,0 +1,12 @@
+{
+  "name": "haxball-powershoot-elite",
+  "version": "1.0.0",
+  "description": "Servidor Elite con Powershoot y Uniformes",
+  "main": "index.js",
+  "dependencies": {
+    "haxball.js": "^1.1.9"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
